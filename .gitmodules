@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"]
+  path = my-static-web-app
+  url = https://github.com/maggieAU1314/my-static-web-app.git
